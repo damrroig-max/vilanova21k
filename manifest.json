@@ -1,0 +1,27 @@
+{
+  "short_name": "Vilanova 21K",
+  "name": "Media Maratón Vilanova 2026",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0a0f",
+  "background_color": "#0a0a0f",
+  "orientation": "portrait",
+  "description": "Plan de entrenamiento personalizado para David y Marta"
+}
